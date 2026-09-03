@@ -1,0 +1,1 @@
+# Crioterapia---Implementa-o-Modelo-de-ML-com-Nayve-Bayes
